@@ -1,0 +1,21 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.site-header {
+	position: sticky;
+	top: 0;
+	background: #fff;
+}
+
+.site-title img {
+	max-height: 48px;
+	padding: 6px;
+}
+
+.ribbon {
+	min-height: 128px;
+	line-height: 192px;
+	background-image: url(/image/ribbon-seamless.png);
+	background-position: center;
+	background-size: contain;
+}

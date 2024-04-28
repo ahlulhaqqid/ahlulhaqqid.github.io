@@ -1,6 +1,7 @@
 ---
 title: "Aqidah Wahbiyyah: Pengantar Penulis"
 date: 2024-04-28
+layout: post
 ---
 # Aqidah Wahbiyyah
 *oleh Imam Nashir bin Salim al-Rawahi*

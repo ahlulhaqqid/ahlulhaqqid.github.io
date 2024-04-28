@@ -1,0 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+# Tentang Ahlul Haqq Indonesia
+Ahlul Haqq Indonesia adalah komunitas penganut madzhab Ibadhiyyah di Indonesia. Tidak seperti madzhab Sunni ataupun Syi'ah yang terpecah menjadi beragam madzhab aqidah dan fiqh yang berbeda-beda, madzhab Ibadhiyyah merupakan madzhab Islam holistik yang mencakup pemahaman aqidah, fiqh, dan siyasah sekaligus. Kami membuka diri untuk menyampaikan edukasi kepada umat Islam Indonesia dan menjalin ukhuwwah dengan segenap ahlul qiblah dari berbagai madzhab dan non-madzhab demi terwujudnya Islam sebagai rahmat bagi segala bangsa, tanpa membeda-bedakan kasta, strata, apalagi harta.
