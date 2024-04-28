@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "Aqidah Wahbiyyah: Pengantar Penulis"
+date: 2024-04-28
 ---
 # Aqidah Wahbiyyah
 *oleh Imam Nashir bin Salim al-Rawahi*
