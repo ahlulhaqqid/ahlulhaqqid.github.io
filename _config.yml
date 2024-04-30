@@ -28,6 +28,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
+  - donasi.html
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
@@ -68,4 +69,25 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-
+collections:
+  categories:
+    title: Kategori
+    output: true
+  labels:
+    title: Label
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: labels
+  values:
+    slug: 
+    layout: label
+    permalink: "/label/:slug/"
+- scope:
+    path: ''
+    type: categories
+  values:
+    slug: 
+    layout: category
+    permalink: "/kategori/:slug/"

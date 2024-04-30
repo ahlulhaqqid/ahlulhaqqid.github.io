@@ -1,0 +1,4 @@
+---
+title: wahbiyyah
+layout: label
+---
