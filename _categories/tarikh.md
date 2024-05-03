@@ -1,4 +1,4 @@
 ---
-title: Aqidah
+title: Tarikh
 layout: category
 ---

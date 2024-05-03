@@ -76,6 +76,9 @@ collections:
   labels:
     title: Label
     output: true
+  writers:
+    title: Penulis
+    output: true
 defaults:
 - scope:
     path: ''
@@ -91,3 +94,14 @@ defaults:
     slug: 
     layout: category
     permalink: "/kategori/:slug/"
+- scope:
+    path: ''
+    type: writers
+  values:
+    slug:
+    layout: writer
+    permalink: "/penulis/:slug/"
+
+# Social buttons
+twitter_url: "https://twitter.com/ahlulhaqqid"
+instagram_url: "https://instagram.com/ahlulhaqqid"

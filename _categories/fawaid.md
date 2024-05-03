@@ -1,4 +1,4 @@
 ---
-title: Aqidah
+title: Faidah
 layout: category
 ---

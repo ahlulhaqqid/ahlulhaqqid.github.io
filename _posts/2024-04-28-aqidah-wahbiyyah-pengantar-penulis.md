@@ -2,10 +2,10 @@
 title: "Aqidah Wahbiyyah: Pengantar Penulis"
 date: 2024-04-28
 category:
-- aqidah
+- Aqidah
 label:
 - wahbiyyah
-author:
+writer:
 - Fullmental Ibadi
 - Ahlul Haqq Indonesia
 layout: post

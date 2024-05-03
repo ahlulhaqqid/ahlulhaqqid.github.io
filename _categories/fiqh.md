@@ -1,4 +1,4 @@
 ---
-title: Aqidah
+title: Fiqh
 layout: category
 ---

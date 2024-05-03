@@ -1,4 +1,4 @@
 ---
-title: Aqidah
+title: Manhaj
 layout: category
 ---

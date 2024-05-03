@@ -17,24 +17,24 @@ layout: base
           Diperbaharui: {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {%- if page.author -%}
-        • Penulis: {% for author in page.author %}
+      {%- if page.writer -%}
+        • Penulis: {% for writer in page.writer %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            <span class="p-author h-card" itemprop="name"><a href="{{ site.baseurl }}/penulis/{{ writer | slugify }}">{{ writer }}</a></span></span>
             {%- if forloop.last == false %}, {% else %} {% endif -%}
         {% endfor %}
       {%- endif -%}
       {%- if page.category -%}
         • Kategori: {% for category in page.category %}
-          <span itemprop="label" itemscope itemtype="http://schema.org/Tag">
-            <span class="p-label h-card" itemprop="name"><a href="{{ site.baseurl }}/kategori/{{ category }}">{{ category }}</a></span></span>
+          <span itemprop="description" itemscope itemtype="http://schema.org/Text">
+            <span class="p-description h-card" itemprop="name"><a href="{{ site.baseurl }}/kategori/{{ category | slugify }}">{{ category }}</a></span></span>
             {%- if forloop.last == false %}, {% else %} {% endif -%}
         {% endfor %}
       {%- endif -%}	  
       {%- if page.label -%}
         • Label: {% for label in page.label %}
-          <span itemprop="label" itemscope itemtype="http://schema.org/Tag">
-            <span class="p-label h-card" itemprop="name"><a href="{{ site.baseurl }}/label/{{ label }}">{{ label }}</a></span></span>
+          <span itemprop="description" itemscope itemtype="http://schema.org/Text">
+            <span class="p-description h-card" itemprop="name"><a href="{{ site.baseurl }}/label/{{ label | slugify }}">{{ label }}</a></span></span>
             {%- if forloop.last == false %}, {% else %}.{% endif -%}
         {% endfor %}
       {%- endif -%}	  </p>
@@ -43,6 +43,8 @@ layout: base
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+  {%- include share-buttons.html -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
