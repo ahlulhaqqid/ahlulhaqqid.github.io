@@ -7,21 +7,21 @@
 <link rel="shortcut icon" href="/image/favicon.png" type="image/png">
 
 <!-- Twitter cards -->
-<meta name="twitter:site"    content="@ahlulhaqqid">
-<meta name="twitter:creator" content="@{{ page.writer }}">
-<meta name="twitter:title"   content="{{ page.title }}">
-
-{% if page.excerpt %}
-<meta name="twitter:description" content="{{ page.excerpt }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-
-{% if page.image %}
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.baseurl }}/image/{{ page.image }}">
-{% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="/image/favicon.png">
-{% endif %}
+{% raw %}
+  <meta property="og:title" content="{{ page.title }}" />
+  {% if page.excerpt %}
+  <meta property="og:description" content="{{ page.excerpt }}" />
+  {% else %}
+  <meta property="og:description" content="{{ site.description }}" />
+  {% endif %}
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.image | absolute_url }}" />
+  <meta name="twitter:card"  content="summary_large_image" />
+  {% else %}
+  <meta property="og:image" content="{{ site.baseurl }}/image/favicon.png" />
+  <meta name="twitter:card"  content="summary" />
+  {% endif %}
+  <meta name="twitter:site" content="@ahlulhaqqid" />
+  <meta name="twitter:creator" content="@ahlulhaqqid" />
+{% endraw %}
 <!-- end of Twitter cards -->

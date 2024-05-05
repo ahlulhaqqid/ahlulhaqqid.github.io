@@ -7,7 +7,7 @@ label:
 - ushul-asyrah
 writer:
 - Fullmental Ibadi
-image: "/image/01-tauhid.jpg"
+image: 01-tauhid.jpg
 layout: post
 ---
 Telah berijma' umat ini bahwasanya Allah itu Esa **tiada sesuatupun yang semisal-Nya** dan tiada pula pengimbang bagi-Nya dalam ranah-Nya. Dengan ikrar keyakinan inilah umat ini keluar dari syirik dan hukum-hukumnya lalu masuk ke dalam hukum-hukum tauhid sepenuhnya.
