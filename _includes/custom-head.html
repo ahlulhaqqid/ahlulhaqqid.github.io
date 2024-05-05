@@ -5,3 +5,23 @@
   2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
 {% endcomment %}
 <link rel="shortcut icon" href="/image/favicon.png" type="image/png">
+
+<!-- Twitter cards -->
+<meta name="twitter:site"    content="@ahlulhaqqid">
+<meta name="twitter:creator" content="@{{ page.writer }}">
+<meta name="twitter:title"   content="{{ page.title }}">
+
+{% if page.excerpt %}
+<meta name="twitter:description" content="{{ page.excerpt }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.image %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ site.baseurl }}/image/{{ page.image }}">
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="/image/favicon.png">
+{% endif %}
+<!-- end of Twitter cards -->
