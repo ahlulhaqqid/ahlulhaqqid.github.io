@@ -7,7 +7,7 @@ label:
 - ushul-asyrah
 writer:
 - Fullmental Ibadi
-image: 10-pillars.jpg
+image: "/image/10-pillars.jpg"
 layout: post
 ---
 بسم الله الرحمن الرحيم
