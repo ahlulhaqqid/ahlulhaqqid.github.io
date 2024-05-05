@@ -39,7 +39,11 @@ layout: base
         {% endfor %}
       {%- endif -%}	  </p>
   </header>
-
+  {%- if page.image -%}
+  <div class="post-image" itemprop="image">
+    <img class="featured-image" src="{{ site.baseurl }}/image/{{ page.image }}" />
+  </div>
+  {%- endif -%}
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
