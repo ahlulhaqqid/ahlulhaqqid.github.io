@@ -1,6 +1,6 @@
 ---
 title: "Prinsip Agama (01) tentang Tauhid: Hakikat Sifat Allah"
-date: 2025-06-22
+date: 2024-05-07
 category:
 - Aqidah
 label:
