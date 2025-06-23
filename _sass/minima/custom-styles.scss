@@ -31,6 +31,15 @@
 	background-size: contain;
 }
 
+.breaking {
+	min-height: 24px;
+	background: lightgrey;
+	padding: 20px;
+	justify-self: center;
+	align-items: center;
+	text-align: center;
+}
+
 .social-links {
 	float: left;
 }

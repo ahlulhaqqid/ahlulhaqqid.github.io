@@ -12,7 +12,7 @@ layout: post
 ---
 Telah ber-ijma' umat ini bahwasanya Allah itu Esa **tiada sesuatupun yang semisal-Nya** dan tiada pula pengimbang bagi-Nya dalam ranah-Nya. Dengan ikrar keyakinan inilah umat ini keluar dari syirik dan hukum-hukumnya lalu masuk ke dalam hukum-hukum tauhid sepenuhnya.
 
-Dan Allah ﷻ telah berfirman dalam sebuah ayat muhkamat kitab-Nya: **tiada sesuatupun yang semisal-Nya [(QS al-Syura: 11)](https://quran.com/42/11)**. Allah berfirman pula: **Katakanlah, "Dialah Allah yang Maha Esa. Allah yang Maha Langgeng. Dia tidak berketurunan dan tidak pula diturunkan; dan tiada satupun yang setara dengan-Nya." [(QS al-Ikhlash: 1-4)](https://quran.com/112/1-4)**
+Dan Allah ﷻ telah berfirman dalam sebuah ayat muhkamat kitab-Nya: **tiada sesuatupun yang semisal-Nya [(QS al-Syura: 11)](https://quran.com/42/11)**. Allah berfirman pula, **"Katakanlah, 'Dialah Allah yang Maha Esa. Allah yang Maha Langgeng. Dia tidak berketurunan dan tidak pula diturunkan; dan tiada satupun yang setara dengan-Nya.'" [(QS al-Ikhlash: 1-4)](https://quran.com/112/1-4)**
 
 Dalam firman-Nya bahwa **tiada sesuatupun yang semisal-Nya** terdapat nafi terhadap seluruh sifat-sifat kebaruan dan kelunglaian. Firman ini merupakan ayat muhkamat yang bermakna: tiada sesuatupun yang seperti Dia; Sang Maha Esa yang tiada duanya. Ia adalah perkataan muhkam yang membakukan seluruh tauhid dan merupakan nafi terhadap seluruh sifat-sifat makhluk (bagi Allah). Di dalamnya terdapat bantahan atas semua orang yang mengingkari sifat-sifat Allah Ta'ala.
 
