@@ -22,7 +22,7 @@ Segala puji bagi Allah yang Maha Memudahkan bagi para hamba-Nya jalan yang denga
 
 Dan dikatakan kepada Rasulullah ﷺ, "Siapakah (yang akan didatangkan) untuk kami setelah engkau, wahai Rasulallah?"
 
-Maka, beliau bersabda, "Telah kutinggalkan di tengah kalian sesuatu yang jika kalian berpegang padanya maka kalian tidak akan pernah tersesat selamanya, (yakni) Kitabullah." [(al-Jami' al-Shahih, bab 4 no. 30)](https://thahabi.org/book/21846/read/12)
+Maka, beliau bersabda, "Telah kutinggalkan di tengah kalian sesuatu yang jika kalian berpegang padanya maka kalian tidak akan pernah tersesat selamanya, (yakni) Kitabullah." [(al-Jami' al-Shahih, no. 30)](https://ketabonline.com/ar/books/40438/read?part=1&page=12&index=4936620#p-40438-12-1)
 
 Beliau bersabda pula, "Akan datang fitnah," sebanyak tiga kali.
 
